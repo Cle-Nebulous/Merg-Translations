@@ -1153,7 +1153,7 @@
     <string name="error">خطأ</string>
     <string name="error_with_string">خطأ: %s</string>
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
-    <string name="invalid_request">الطلب غير صحيح أو ناقص حقول مطلوبة</string>
+    <string name="invalid_request">الطلب غير صالح أو يفتقد إلى الحقول المطلوبة</string>
     <string name="invalid_token">جلسة غير صالحة أو منتهية الصلاحية. يرجى تسجيل الدخول مرة أخرى.</string>
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
@@ -1184,7 +1184,7 @@
     <string name="invalid_action">غير صالح</string>
     <string name="invalid_value">قيمة غير صالحة</string>
     <string name="admin_cannot_act_self">لا يمكن تنفيذ هذا الإجراء على نفسك</string>
-    <string name="admin_cannot_act_on_staff">لا يمكن تنفيذ هذا الإجراء على أعضاء الطاقم</string>
+    <string name="admin_cannot_act_on_staff">لا يمكن تنفيذ هذا الإجراء على أعضاء طاقم الإدارة</string>
     <string name="code_not_found">رمز غير صالح</string>
     <string name="code_expired">انتهت صلاحية الرمز</string>
     <string name="code_already_redeemed">تم استخدام الرمز مسبقًا!</string>
@@ -1202,7 +1202,7 @@
     <string name="open_link">فتح</string>
     <string name="whatsapp_note">دردشة فقط، بدون مكالمات أو رسائل نصية</string>
     <string name="recommended">موصى به</string>
-    <string name="support_response_time">يتم الرد خلال</string>
+    <string name="support_response_time">تم الرد خلال</string>
     <string name="support_mail">البريد الالكتروني</string>
     <string name="support_discord_channel">دعم عبر التذاكر</string>
     <string name="additional_settings">إعدادات إضافية</string>
@@ -1220,7 +1220,7 @@
     <string name="reconnect_attempt_failed">فشلت محاولة إعادة الاتصال رقم %1$d: %2$s</string>
     <string name="save_preferences">حفظ التفضيلات</string>
     <string name="load_preferences">تحميل التفضيلات</string>
-    <string name="reset_to_defaults">إعادة التعيين إلى الافتراضي</string>
+    <string name="reset_to_defaults">إعادة التعيين إلى الإعدادات الافتراضية</string>
     <string name="reset_to_defaults_confirm">هل أنت متأكد؟ سيتم إعادة تحميل التطبيق.</string>
     <string name="preferences_saved">تم حفظ التفضيلات في %1$s</string>
     <string name="preferences_loaded">تم تحميل التفضيلات!</string>
@@ -1279,17 +1279,17 @@
     <string name="ach_desc_adventure_stage">أكمل مرحلة المغامرة %1$s.</string>
     <string name="ach_title_scorer">هدّاف %1$s</string>
     <string name="ach_desc_soccer_goals_one">سجّل هدفاً واحداً في وضع كرة القدم.</string>
-    <string name="ach_desc_soccer_goals">سجّل %1$s أهداف في وضع كرة القدم.</string>
+    <string name="ach_desc_soccer_goals">سجّل %1$s هدفًا في وضع كرة القدم.</string>
     <string name="ach_title_size_beginner">مبتدئ</string>
     <string name="ach_title_size_millionaire">مليونير</string>
     <string name="ach_title_size_multimillionaire">مليونير متعدد</string>
     <string name="ach_title_size_ultramillionaire">مليونير فائق</string>
     <string name="ach_title_size_billionaire">ملياردير</string>
-    <string name="ach_desc_size_gained">اكسب حجماً إجمالياً قدره %1$s.</string>
+    <string name="ach_desc_size_gained">اجمع حجمًا إجماليًا قدره %1$s.</string>
     <string name="ach_title_lucky_find">اكتشاف محظوظ</string>
     <string name="ach_title_fortune_catcher">صائد الحظ</string>
     <string name="ach_title_rainbow_master">سيد قوس المطر</string>
-    <string name="ach_desc_rainbow_voidstones_one">اجمع فويدستون واحد من قوس المطر.</string>
+    <string name="ach_desc_rainbow_voidstones_one">اجمع فويدستون واحدًا بألوان قوس المطر.</string>
     <string name="ach_desc_rainbow_voidstones">اجمع %1$s من فويدستون قوس المطر.</string>
     <string name="ach_title_wizard">الساحر %1$s</string>
     <string name="ach_desc_items_used">استخدم %1$s من العناصر.</string>
@@ -1300,7 +1300,7 @@
     <string name="ach_title_microscopic">مجهري</string>
     <string name="ach_title_invisible">غير مرئي</string>
     <string name="ach_title_nonexistent">معدوم</string>
-    <string name="ach_desc_min_size">اصبح أصغر من حجم %1$s.</string>
+    <string name="ach_desc_min_size">كن أصغر من حجم %1$s.</string>
     <string name="ach_desc_min_size_limit">اوصل إلى الحد الأدنى المسموح به للحجم وهو %1$s.</string>
     <string name="ach_title_close_call">نجاة بأعجوبة</string>
     <string name="ach_desc_tiebreaker">انجُ من جولة الفصل في وضع الإقصاء.</string>
