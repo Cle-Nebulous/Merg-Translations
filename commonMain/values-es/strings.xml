@@ -368,7 +368,7 @@
           canonical English fallback (admin can no longer edit it). -->
      <string name="season_task_food_eaten">Come comida</string>
      <string name="season_task_voidstone_any_eaten">Recolecta voidstones</string>
-     <string name="season_task_voidstone_regular_eaten">Recolecta Voidstones regulares</string>
+     <string name="season_task_voidstone_regular_eaten">Recolecta voidstones regulares</string>
      <string name="season_task_voidstone_bronze_eaten">Recolecta voidstones de bronce</string>
      <string name="season_task_voidstone_silver_eaten">Recolecta voidstones de plata</string>
      <string name="season_task_voidstone_gold_eaten">Recolecta voidstones de oro</string>
@@ -697,7 +697,7 @@
     <string name="stat_teleports">Teletransportaciones:</string>
     <string name="stat_rewarded_ads_watched">Anuncios Vistos:</string>
     <string name="stat_items_used">Items utilizados:</string>
-    <string name="stat_voidstones_gifted">Regalados:</string>
+    <string name="stat_voidstones_gifted">Regaladas:</string>
     <string name="stat_opponents_exploded">Enemigos Explotados:</string>
 
     <!-- Mail !-->
