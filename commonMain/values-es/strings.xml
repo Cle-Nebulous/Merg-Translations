@@ -1338,8 +1338,8 @@
     <string name="ach_title_binge_watcher">Maratonista</string>
     <string name="ach_title_movie_star">Estrella de cine</string>
     <string name="ach_title_cinephile">Cinéfilo</string>
-    <string name="ach_desc_rewarded_ads">Mira los anuncios recompensados de %1$s.</string>
-    <string name="net_switched_to_websocket">!! UDP bloqueado, se cambió a Websocket. Espere una latencia mayor. Verifique las reglas del firewall de su red, asegurándose de que el puerto UDP 9807 no esté bloqueadoSi estás jugando en la web, puedes ignorar este mensaje.</string>
+    <string name="ach_desc_rewarded_ads">Mira %1$s anuncios de recompensa.</string>
+    <string name="net_switched_to_websocket">!! UDP bloqueado, se cambió a Websocket. Se espera una mayor latencia. Verifique las reglas del firewall de su red, asegurándose de que el puerto UDP 9807 no esté bloqueado. Si estás jugando en la web, puedes ignorar este mensaje.</string>
     <string name="net_switched_back_to_udp">Se volvió a cambiar a UDP.</string>
     <string name="options_main">General</string>
     <string name="options_graphics">Gráficos</string>
