@@ -388,7 +388,7 @@
      <string name="season_task_win_competitive">Gana batallas competitivas</string>
      <string name="season_task_win_survival">Gana partidas de supervivencia</string>
      <string name="season_task_win_team_survival">Gana partidas de supervivencia por equipos</string>
-     <string name="season_task_win_knockout">Ganar partidas de eliminación</string>
+     <string name="season_task_win_knockout">Gana partidas de eliminación</string>
      <string name="season_task_win_soccer">Gana partidos de fútbol</string>
      <string name="season_task_soccer_goal_scored">Marca goles en fútbol</string>
      <string name="season_task_split">Divídete</string>
@@ -1329,7 +1329,7 @@
     <string name="ach_title_philanthropist">Filántropo</string>
     <string name="ach_desc_gift_voidstones">Regala un total de %1$s Voidstones.</string>
     <string name="ach_title_map_control">Control del mapa</string>
-    <string name="ach_desc_map_control">Cubre todo el terreno de juego./string>
+    <string name="ach_desc_map_control">Cubre todo el terreno de juego.</string>
     <string name="ach_title_hole_attack">Ataque con %1$s agujeros</string>
     <string name="ach_desc_hole_attack">Haz explotar a %1$s jugadores disparándoles un agujero.</string>
     <string name="ach_title_bully">Matón</string>
