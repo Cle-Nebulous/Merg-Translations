@@ -819,7 +819,8 @@
     <string name="achievement_skin_locked_dialog">Debes alcanzar %1$d Puntos de Logros para desbloquear esta skin. Actualmente tienes %2$d.</string>
     <string name="dismiss">Dismiss</string>
     <string name="level_lock">Nivel Bloqueado</string>
-    
+
+
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="emotes">Emotes</string>
