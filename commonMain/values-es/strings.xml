@@ -366,31 +366,31 @@
           season_task_templates table; the client looks these up by
           event_type at render time. DB `season_tasks.title` stays as
           canonical English fallback (admin can no longer edit it). -->
-     <string name="season_task_food_eaten">Comer Comida</string>
-     <string name="season_task_voidstone_any_eaten">Recoger Voidstones</string>
-     <string name="season_task_voidstone_regular_eaten">Recoger Voidstones Regulares</string>
-     <string name="season_task_voidstone_bronze_eaten">Recoger Voidstones de Bronze</string>
-     <string name="season_task_voidstone_silver_eaten">Recoger Voidstones de Plata</string>
-     <string name="season_task_voidstone_gold_eaten">Recogrr Voidstones de Oro</string>
-     <string name="season_task_voidstone_rainbow_eaten">Recoger Voidstones Arcoiris</string>
-     <string name="season_task_food_and_voidstone_eaten">Recoger Comida y Voidstones</string>
-     <string name="season_task_bots_eaten">Comer Bots</string>
-     <string name="season_task_players_eaten">Comer Jugadores</string>
-     <string name="season_task_hole_any_powerup">Usa potenciadores de agujeros azules, morados y dorados.</string>
+     <string name="season_task_food_eaten">Come comida</string>
+     <string name="season_task_voidstone_any_eaten">Recolecta voidstones</string>
+     <string name="season_task_voidstone_regular_eaten">Recolecta Voidstones regulares</string>
+     <string name="season_task_voidstone_bronze_eaten">Recolecta voidstones de bronce</string>
+     <string name="season_task_voidstone_silver_eaten">Recolecta voidstones de plata</string>
+     <string name="season_task_voidstone_gold_eaten">Recolecta voidstones de oro</string>
+     <string name="season_task_voidstone_rainbow_eaten">Recolecta voidstones arcoiris</string>
+     <string name="season_task_food_and_voidstone_eaten">Recolecta comida y voidstones</string>
+     <string name="season_task_bots_eaten">Come bots</string>
+     <string name="season_task_players_eaten">Come jugadores</string>
+     <string name="season_task_hole_any_powerup">Usa potenciadores de agujeros azules, dorados y portales</string>
      <string name="season_task_hole_blue_powerup">Usa potenciadores de agujeros azules</string>
-     <string name="season_task_hole_purple_powerup">Usa potenciadores de agujeros morados</string>
-     <string name="season_task_hole_gold_powerup">Usa potenciadores de sgujeros dorados</string>
-     <string name="season_task_hole_any_punishment">Ser golpeado por cualquier agujero</string>
-     <string name="season_task_hole_black_punishment">Ser alcanzado por agujeros negros/string>
-     <string name="season_task_hole_blue_punishment">Ser golpeado por agujeros azules</string>
-     <string name="season_task_hole_purple_punishment">Ser golpeado por agujeros morados</string>
-     <string name="season_task_hole_gold_punishment">Ser golpeado por agujeros dorados</string>
-     <string name="season_task_win_competitive">Gana juegos competitivos</string>
-     <string name="season_task_win_survival">Gana juegos de supervivencia</string>
-     <string name="season_task_win_team_survival">Gana juegos de supervivencia en equipo./string>
-     <string name="season_task_win_knockout">Ganar partidos eliminatorios</string>
+     <string name="season_task_hole_purple_powerup">Usa potenciadores de portales</string>
+     <string name="season_task_hole_gold_powerup">Usa potenciadores de agujeros dorados</string>
+     <string name="season_task_hole_any_punishment">Explota contra cualquier agujero/portal</string>
+     <string name="season_task_hole_black_punishment">Explota contra agujeros negros</string>
+     <string name="season_task_hole_blue_punishment">Explota contra agujeros azules</string>
+     <string name="season_task_hole_purple_punishment">Explota contra portales</string>
+     <string name="season_task_hole_gold_punishment">Explota contra agujeros dorados</string>
+     <string name="season_task_win_competitive">Gana batallas competitivas</string>
+     <string name="season_task_win_survival">Gana partidas de supervivencia</string>
+     <string name="season_task_win_team_survival">Gana partidas de supervivencia por equipos</string>
+     <string name="season_task_win_knockout">Ganar partidas de eliminación</string>
      <string name="season_task_win_soccer">Gana partidos de fútbol</string>
-     <string name="season_task_soccer_goal_scored">Marcar goles de fútbol</string>
+     <string name="season_task_soccer_goal_scored">Marca goles en fútbol</string>
      <string name="season_task_split">Divídete</string>
      <string name="season_task_shoot">Dispara masa</string>
 
