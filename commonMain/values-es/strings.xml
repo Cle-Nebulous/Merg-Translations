@@ -24,7 +24,7 @@
     <!-- Options menu !-->
     <string name="language">Idioma</string>
     <string name="language_arabic">العربية | Árabe</string>
-    <string name="language_azerbaijani">Azərbaycanca | Azerbaijani</string>
+    <string name="language_azerbaijani">Azərbaycanca | Azerbaiyano</string>
     <string name="language_bengali">বাংলা | Bengalí</string>
     <string name="language_chinese">简体中文 | Chino (Simplificado)</string>
     <string name="language_chinese_traditional">繁體中文 | Chino (Tradicional)</string>
@@ -47,7 +47,7 @@
     <string name="language_portuguese_portugal">Português (Portugal) | Portugués (Portugal)</string>
     <string name="language_romanian">Română | Rumano</string>
     <string name="language_russian">Русский | Ruso</string>
-    <string name="language_slovak">Slovenčina | Slovak</string>
+    <string name="language_slovak">Slovenčina | Esloveno</string>
     <string name="language_spanish">Español</string>
     <string name="language_swedish">Svenska | Sueco</string>
     <string name="language_thai">ไทย | Tailandés</string>
@@ -272,7 +272,7 @@
     <string name="transaction_achievement_reward">Recompensa por logro</string>
     <string name="booster_autosplit_bought">Autosplit Mejorado</string>
     <string name="booster_autoshoot_bought">Autoshoot Mejorado</string>
-    <string name="booster_spawn_size_bought">Tamado de reaparición Mejorado</string>
+    <string name="booster_spawn_size_bought">Tamaño de reaparición Mejorado</string>
     <string name="booster_level_short">Nvl %1$d</string>
     <string name="profile_name_change_bought">Cambio de Nombre Comprado</string>
     <string name="profile_name_color_bought">Color de Nombre Comprado</string>
@@ -1138,8 +1138,8 @@
     <string name="players_count">Jugadores</string>
     <string name="show_ui">Mostrar Interfaz de Usuario</string>
     <string name="open_menu">Abrir Menú</string>
-    <string name="stop_spectating">Dejar de Espectar</string>
-    <string name="spectate">Espectar</string>
+    <string name="stop_spectating">Dejar de Observar</string>
+    <string name="spectate">Observar</string>
     <string name="previous_entity">Entidad Anterior</string>
     <string name="next_entity">Siguiente Entidad</string>
     <string name="level_abbreviated">Nivel.%d</string>
