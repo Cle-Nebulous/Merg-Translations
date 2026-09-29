@@ -1220,7 +1220,7 @@
     <string name="reconnect_attempt_failed">Falha na tentativa #%1$d de reconexão: %2$s</string>
     <string name="save_preferences">Salvar preferências</string>
     <string name="load_preferences">Carregar preferências</string>
-    <string name="reset_to_defaults">Redefinir para os padrões</string>
+    <string name="reset_to_defaults">Restaurar Padrões</string>
     <string name="reset_to_defaults_confirm">Tem certeza? O app será recarregado.</string>
     <string name="preferences_saved">Preferências salvas para %1$s</string>
     <string name="preferences_loaded">Preferências carregar!</string>
