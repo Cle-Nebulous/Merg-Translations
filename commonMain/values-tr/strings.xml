@@ -1035,32 +1035,32 @@
 
     <!-- Account recovery -->
     <string name="account_recovery">Hesap Kurtarma</string>
-    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
+    <string name="recovery_info">Aynı Wi-Fi ve cihaz gereklidir. Aksi takdirde kurtarma başarısız olabilir.</string>
     <string name="recovery_continue">Devam Et</string>
-    <string name="recovery_enter_account_id">Enter your account ID</string>
+    <string name="recovery_enter_account_id">Hesap ID'nizi girin</string>
     <string name="recovery_account_id_placeholder">Hesap ID</string>
-    <string name="recovery_load_preview">Load account</string>
-    <string name="recovery_new_email_label">New email address</string>
+    <string name="recovery_load_preview">Hesap yükle</string>
+    <string name="recovery_new_email_label">Yeni e-posta adresi</string>
     <string name="recovery_new_email_placeholder">new@example.com</string>
-    <string name="recovery_change_mail">Change mail</string>
-    <string name="recovery_confirm_title">Change account email?</string>
-    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
-    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
-    <string name="recovery_error_invalid_id">Please enter a valid account ID.</string>
-    <string name="recovery_error_invalid_email">Please enter a valid email address.</string>
-    <string name="recovery_error_invalid_request">Invalid request. Please try again.</string>
-    <string name="recovery_error_network">Network error. Please check your connection and try again.</string>
-    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
-    <string name="recovery_error_email_taken">This email is already used by another account. Delete that account or use a different email.</string>
-    <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
-    <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
-    <string name="recovery_error_cooldown">This account was recently recovered. Please wait 24 hours before trying again.</string>
-    <string name="recovery_error_banned">This account is banned and cannot be recovered.</string>
-    <string name="recovery_error_not_found">No account found with that ID.</string>
-    <string name="recovery_error_rate_limited">Too many attempts. Please wait and try again later.</string>
-    <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
-    <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
-    <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
+    <string name="recovery_change_mail">E-postayı değiştir</string>
+    <string name="recovery_confirm_title">Hesabın e-posta adresi değiştirilsin mi?</string>
+    <string name="recovery_confirm_body">Bu hesaptaki e-posta adresini %1$s olarak değiştirmek üzeresiniz. Bir sonraki girişte eşleşen Google hesabıyla oturum açacaksınız. Bu işlem geri alınamaz.</string>
+    <string name="recovery_success_body">E-posta adresi %1$s olarak değiştirildi. Lütfen şimdi yeni Google hesabınızla oturum açın.</string>
+    <string name="recovery_error_invalid_id">Lütfen geçerli bir hesap ID'si girin.</string>
+    <string name="recovery_error_invalid_email">Lütfen geçerli bir e-posta adresi girin.</string>
+    <string name="recovery_error_invalid_request">Geçersiz istek. Lütfen tekrar deneyin.</string>
+    <string name="recovery_error_network">Bağlantı hatası. Lütfen bağlantınızı kontrol edip tekrar deneyin.</string>
+    <string name="recovery_error_fingerprint_mismatch">Bu cihaz ve ağ bu hesapla eşleşmiyor. Kurtarma işlemi için daha önce bu hesapla kullandığınız bir Wi-Fi ağına aynı telefonla bağlanmanız gerekir.</string>
+    <string name="recovery_error_email_taken">Bu e-posta adresi zaten başka bir hesap tarafından kullanılıyor. Önce o hesabı silin veya farklı bir e-posta adresi kullanın.</string>
+    <string name="recovery_error_google_taken">Bu Google hesabı zaten başka bir hesaba bağlı.</string>
+    <string name="recovery_error_email_mismatch">Yazdığınız e-posta adresi giriş yaptığınız Google hesabıyla uyuşmuyor.</string>
+    <string name="recovery_error_cooldown">Bu hesap yakın zamanda kurtarıldı. Lütfen denemeden önce 24 saat bekleyin.</string>
+    <string name="recovery_error_banned">Bu hesap yasaklandı ve kurtarılamaz.</string>
+    <string name="recovery_error_not_found">Bu ID ile bir hesap bulunamadı.</string>
+    <string name="recovery_error_rate_limited">Çok fazla deneme yapıldı. Lütfen bekleyin ve daha sonra tekrar deneyin.</string>
+    <string name="recovery_error_google_invalid">Google hesabı doğrulanamadı. Lütfen tekrar deneyin.</string>
+    <string name="recovery_error_google_cancelled">Google ile oturum açma iptal edildi veya başarısız oldu.</string>
+    <string name="recovery_error_internal">Bizim tarafımızda bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin.</string>
 
     <!-- Miscellaneous !-->
     <string name="no_internet_connection">İnternet bağlantısı yok. Cihazınızın ağ ayarlarını kontrol edin.</string>
