@@ -1026,7 +1026,7 @@
     <string name="custom_banner_compress_accept">Komprimierte Version verwenden</string>
     <string name="custom_banner_compress_failed">Banner konnte nicht so weit komprimiert werden, dass es die Größenbeschränkung erfüllt</string>
     <string name="custom_banner_crop_title">Auf ein 16:9-Banner zuschneiden</string>
-    <string name="custom_banner_crop_apply">Komprimieren &amp; verwenden</string>
+    <string name="custom_banner_crop_apply">Zuschneiden &amp; verwenden</string>
     <string name="custom_banner_processing">Wird verarbeitet…</string>
     <string name="custom_banner_bought">Benutzerdefiniertes Banner hochladen</string>
     <string name="custom_banner_refund">Rückerstattung für benutzerdefiniertes Banner</string>
