@@ -1043,7 +1043,7 @@
     <string name="recovery_new_email_label">Yeni e-posta adresi</string>
     <string name="recovery_new_email_placeholder">new@example.com</string>
     <string name="recovery_change_mail">E-postayı değiştir</string>
-    <string name="recovery_confirm_title">Hesabın e-posta adresi değiştirilsin mi?</string>
+    <string name="recovery_confirm_title">Hesap E-postasını Değiştir</string>
     <string name="recovery_confirm_body">Bu hesaptaki e-posta adresini %1$s olarak değiştirmek üzeresiniz. Bir sonraki girişte eşleşen Google hesabıyla oturum açacaksınız. Bu işlem geri alınamaz.</string>
     <string name="recovery_success_body">E-posta adresi %1$s olarak değiştirildi. Lütfen yeni Google hesabınızla oturum açın.</string>
     <string name="recovery_error_invalid_id">Lütfen geçerli bir hesap ID'si girin.</string>
@@ -1059,7 +1059,7 @@
     <string name="recovery_error_not_found">Bu ID ile bir hesap bulunamadı.</string>
     <string name="recovery_error_rate_limited">Çok fazla deneme yapıldı. Lütfen bekleyin ve daha sonra tekrar deneyin.</string>
     <string name="recovery_error_google_invalid">Google hesabı doğrulanamadı. Lütfen tekrar deneyin.</string>
-    <string name="recovery_error_google_cancelled">Google ile oturum açma iptal edildi veya başarısız oldu.</string>
+    <string name="recovery_error_google_cancelled">Google ile oturum açma işlemi iptal edildi veya başarısız oldu.</string>
     <string name="recovery_error_internal">Bizim tarafımızda bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin.</string>
 
     <!-- Miscellaneous !-->
