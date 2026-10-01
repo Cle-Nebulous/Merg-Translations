@@ -144,7 +144,7 @@
     <string name="connected">Połączono</string>
     <string name="select_server">Wybierz Serwer</string>
     <string name="server_europe">Europa</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">Dołącz</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Czy chcesz usunąć warunek prośby dla "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Czy chcesz odbanować "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Znajdź konto przy użyciu ID albo Nazwy</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Mianuj na Lidera</string>
     <string name="clan_transfer_ownership_title">Mianuj nowego Lidera</string>
     <string name="clan_transfer_ownership_message">Czy chcesz mianować "%1$s" (ID: %2$d) na Lidera? Powrócisz na stanowisko Zastępcy Lidera. Ta czynność jest nieodwracalna.\n\nWpisz ID konta, aby potwierdzić:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Server is shutting down</string>
     <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
     <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Forbidden</string>
     <string name="internal_server_error">Internal Server Error</string>
     <string name="unknown_error_code">Unknown error Code %d</string>

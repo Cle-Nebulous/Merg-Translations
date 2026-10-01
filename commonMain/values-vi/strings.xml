@@ -144,7 +144,7 @@
     <string name="connected">Đã kết nối</string>
     <string name="select_server">Chọn máy chủ</string>
     <string name="server_europe">Châu Âu</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">Tham gia</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Bạn có chắc muốn gỡ bỏ trạng thái bị đá của "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Bạn có chắc muốn gỡ cấm "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Tìm kiếm bằng ID hoặc Tên</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Thăng chức thành Chủ sở hữu</string>
     <string name="clan_transfer_ownership_title">Chuyển quyền sở hữu</string>
     <string name="clan_transfer_ownership_message">Bạn sắp thăng chức "%1$s" (ID: %2$d) thành Chủ sở hữu. Bạn sẽ bị giáng chức thành Đồng sở hữu. Không thể hoàn tác.\n\nNhập ID của người chơi để xác nhận:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Máy chủ đang tắt</string>
     <string name="server_rebooting">Máy chủ đang khởi động lại. Vui lòng thử lại sau giây lát.</string>
     <string name="server_maintenance">Máy chủ đang được bảo trì. Vui lòng thử lại sau.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Bị cấm</string>
     <string name="internal_server_error">Lỗi máy chủ nội bộ</string>
     <string name="unknown_error_code">Mã lỗi không xác định %d</string>

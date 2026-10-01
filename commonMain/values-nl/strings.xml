@@ -144,7 +144,7 @@
     <string name="connected">Verbonden</string>
     <string name="select_server">Server selecteren</string>
     <string name="server_europe">Europa</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">Deelnemen</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Weet je zeker dat je de verwijdering van "%1$s" (ID: %2$d) wilt annuleren?</string>
     <string name="clan_unban_confirm">Weet je zeker dat je de verbanning van "%1$s" (ID: %2$d) wilt opheffen?</string>
     <string name="clan_search_hint">Zoeken via ID of naam</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Promoveren tot eigenaar</string>
     <string name="clan_transfer_ownership_title">Eigendom overdragen</string>
     <string name="clan_transfer_ownership_message">Je staat op het punt om "%1$s" (ID: %2$d) te promoveren tot Eigenaar. Je wordt zelf gedegradeerd tot Mede-eigenaar. Dit kan niet ongedaan worden gemaakt.\n\nTyp het ID van de speler om te bevestigen:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Server sluit af</string>
     <string name="server_rebooting">Server start opnieuw op. Probeer het zo dadelijk opnieuw.</string>
     <string name="server_maintenance">Server is momenteel in onderhoud. Probeer het later opnieuw.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Verboden (Forbidden)</string>
     <string name="internal_server_error">Interne serverfout</string>
     <string name="unknown_error_code">Onbekende foutcode %d</string>

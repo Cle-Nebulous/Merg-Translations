@@ -144,7 +144,7 @@
     <string name="connected">เชื่อมต่อแล้ว</string>
     <string name="select_server">เลือกเซิร์ฟเวอร์</string>
     <string name="server_europe">ยุโรป</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">เข้าร่วม</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">คุณแน่ใจหรือไม่ว่าต้องการปลดเตะ "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">คุณแน่ใจหรือไม่ว่าต้องการปลดแบน "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">ค้นหาด้วย ID หรือ ชื่อ</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">เลื่อนขั้นเป็นหัวหน้า</string>
     <string name="clan_transfer_ownership_title">โอนความเป็นเจ้าของ</string>
     <string name="clan_transfer_ownership_message">คุณกำลังจะเลื่อนขั้น "%1$s" (ID: %2$d) เป็นหัวหน้า คุณจะถูกลดขั้นเป็นรองหัวหน้า การกระทำนี้ไม่สามารถย้อนกลับได้\n\nพิมพ์ ID ของผู้เล่นเพื่อยืนยัน:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">เซิร์ฟเวอร์กำลังปิดตัวลง</string>
     <string name="server_rebooting">เซิร์ฟเวอร์กำลังรีบูต โปรดลองอีกครั้งในอีกสักครู่</string>
     <string name="server_maintenance">เซิร์ฟเวอร์กำลังอยู่ระหว่างการปรับปรุง โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">ต้องห้าม</string>
     <string name="internal_server_error">ข้อผิดพลาดเซิร์ฟเวอร์ภายใน</string>
     <string name="unknown_error_code">รหัสข้อผิดพลาดที่ไม่รู้จัก %d</string>

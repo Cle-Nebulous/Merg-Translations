@@ -144,7 +144,7 @@
     <string name="connected">Připojeno</string>
     <string name="select_server">Vybrat server</string>
     <string name="server_europe">Evropa</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">Připojit se</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Opravdu chceš zrušit vyhození "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Opravdu chceš povolit přístup "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Hledat podle ID nebo jména</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Povýšit na vlastníka</string>
     <string name="clan_transfer_ownership_title">Převést vlastnictví</string>
     <string name="clan_transfer_ownership_message">Chystáš se povýšit "%1$s" (ID: %2$d) na vlastníka. Budeš degradován na spoluvlastníka. Toto nelze vrátit.\n\nNapiš ID hráče pro potvrzení:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Server se vypíná</string>
     <string name="server_rebooting">Server se restartuje. Zkus to prosím za chvíli.</string>
     <string name="server_maintenance">Server prochází údržbou. Zkus to prosím později.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Zakázáno</string>
     <string name="internal_server_error">Interní chyba serveru</string>
     <string name="unknown_error_code">Neznámý kód chyby %d</string>
