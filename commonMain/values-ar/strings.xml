@@ -144,7 +144,7 @@
     <string name="connected">متصل</string>
     <string name="select_server">اختيار السيرفر</string>
     <string name="server_europe">أوروبا</string>
-    <string name="server_americas_nc">أمريكا الشمالية والوسطى</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">أمريكا الجنوبية</string>
     <string name="server_asia">آسيا</string>
     <string name="join">دخول</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
     <string name="clan_unban_confirm">هل أنت متأكد أنك تريد إلغاء حظر "%1$s" (الهوية: %2$d)؟</string>
     <string name="clan_search_hint">البحث بالهوية أو الاسم</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">ترقية إلى مالك</string>
     <string name="clan_transfer_ownership_title">نقل الملكية</string>
     <string name="clan_transfer_ownership_message">أنت على وشك ترقية "%1$s" (الهوية: %2$d) إلى مالك. سيتم تخفيض رتبتك إلى مساعد القائد. لا يمكن التراجع عن هذا.\n\nاكتب هوية اللاعب للتأكيد:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">السيرفر قيد الإيقاف</string>
     <string name="server_rebooting">السيرفر يعيد التشغيل. يرجى المحاولة بعد قليل.</string>
     <string name="server_maintenance">السيرفر يخضع للصيانة. يرجى المحاولة لاحقاً.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">ممنوع من الحلبة</string>
     <string name="internal_server_error">خطأ في الخادم الداخلي</string>
     <string name="unknown_error_code">رمز خطأ غير معروف %d</string>

@@ -144,7 +144,7 @@
     <string name="connected">Konektado</string>
     <string name="select_server">Pumili ng Server</string>
     <string name="server_europe">Europa</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">Sumali</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Sigurado ka bang gusto mong i-unkick si "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Sigurado ka bang gusto mong i-unban si "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Maghanap gamit ang ID o Pangalan</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">I-promote bilang May-ari</string>
     <string name="clan_transfer_ownership_title">Ilipat ang Pagmamay-ari</string>
     <string name="clan_transfer_ownership_message">Ipi-promote mo si "%1$s" (ID: %2$d) bilang May-ari. Ikaw ay ibababa bilang Kasamang May-ari. Hindi na ito mababawi.\n\nI-type ang ID ng manlalaro upang kumpirmahin:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Nagsasara na ang server</string>
     <string name="server_rebooting">Nag-re-reboot ang server. Mangyaring subukan muli sandali.</string>
     <string name="server_maintenance">Sumasailalim sa maintenance ang server. Mangyaring subukan muli mamaya.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Ipinagbabawal</string>
     <string name="internal_server_error">Internal Server Error</string>
     <string name="unknown_error_code">Hindi malamang error Code %d</string>

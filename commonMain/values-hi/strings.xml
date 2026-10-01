@@ -144,7 +144,7 @@
     <string name="connected">कनेक्टेड</string>
     <string name="select_server">सर्वर चुनें</string>
     <string name="server_europe">यूरोप</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">जुड़ें</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">क्या आप वाकई "%1$s" (ID: %2$d) को अनकिक करना चाहते हैं?</string>
     <string name="clan_unban_confirm">क्या आप वाकई "%1$s" (ID: %2$d) को अनबैन करना चाहते हैं?</string>
     <string name="clan_search_hint">ID या नाम द्वारा खोजें</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">मालिक के रूप में पदोन्नत करें</string>
     <string name="clan_transfer_ownership_title">स्वामित्व स्थानांतरित करें</string>
     <string name="clan_transfer_ownership_message">आप "%1$s" (ID: %2$d) को मालिक के रूप में पदोन्नत करने वाले हैं। आप सह-मालिक के रूप में पदावनत हो जाएंगे। इसे पूर्ववत नहीं किया जा सकता।\n\nपुष्टि करने के लिए खिलाड़ी की ID टाइप करें:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">सर्वर बंद हो रहा है</string>
     <string name="server_rebooting">सर्वर रीबूट हो रहा है। कृपया कुछ देर बाद पुनः प्रयास करें।</string>
     <string name="server_maintenance">सर्वर रखरखाव चल रहा है। कृपया बाद में पुनः प्रयास करें।</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">निषिद्ध</string>
     <string name="internal_server_error">आंतरिक सर्वर त्रुटि</string>
     <string name="unknown_error_code">अज्ञात त्रुटि कोड %d</string>

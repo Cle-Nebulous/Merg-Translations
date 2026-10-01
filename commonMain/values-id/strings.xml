@@ -144,7 +144,7 @@
     <string name="connected">Terkoneksi</string>
     <string name="select_server">Pilih Server</string>
     <string name="server_europe">Eropa</string>
-    <string name="server_americas_nc">Amerika (Ut./Tgh.)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">Amerika Selatan</string>
     <string name="server_asia">Asia</string>
     <string name="join">Gabung</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Apakah Anda yakin ingin unkick "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">Apakah Anda yakin ingin unban "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Cari berdasarkan ID atau Nama</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Promosikan menjadi Pemilik</string>
     <string name="clan_transfer_ownership_title">Alihkan Kepemilikan</string>
     <string name="clan_transfer_ownership_message">Anda akan mempromosikan "%1$s" (ID: %2$d) menjadi Pemilik. Status Anda akan didemosikan menjadi Rekan Pemilik. Tindakan ini tidak dapat dibatalkan.\n\nKetik ID pemain untuk konfirmasi:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Server sedang dimatikan</string>
     <string name="server_rebooting">Server sedang reboot. Silakan coba lagi sebentar lagi.</string>
     <string name="server_maintenance">Server sedang dalam pemeliharaan. Silakan coba lagi nanti.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Terlarang</string>
     <string name="internal_server_error">Error atas Server Internal</string>
     <string name="unknown_error_code">Error tidak diketahui Kode %d</string>

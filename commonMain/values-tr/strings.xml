@@ -144,7 +144,7 @@
     <string name="connected">Bağlandı</string>
     <string name="select_server">Sunucu Seç</string>
     <string name="server_europe">Avrupa</string>
-    <string name="server_americas_nc">Kuzey/Orta Amerika</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">Güney Amerika</string>
     <string name="server_asia">Asya</string>
     <string name="join">Katıl</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">"%1$s" (ID: %2$d) adlı üyenin atılma durumunu kaldırmak istediğine emin misin?</string>
     <string name="clan_unban_confirm">"%1$s" (ID: %2$d) adlı üyenin yasağını kaldırmak istediğine emin misin?</string>
     <string name="clan_search_hint">ID veya İsim ile Ara</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Kurucu Yap</string>
     <string name="clan_transfer_ownership_title">Sahipliği Devret</string>
     <string name="clan_transfer_ownership_message">"%1$s" (ID: %2$d) adlı üyeyi Kurucu yapmak üzeresin. Senin rütben Yardımcı Liderliğe düşürülecek. Bu işlem geri alınamaz.\n\nOnaylamak için oyuncunun ID'sini yaz:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Server is shutting down</string>
     <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
     <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Yasaklı</string>
     <string name="internal_server_error">Internal Server Error</string>
     <string name="unknown_error_code">Unknown error Code %d</string>
@@ -1195,7 +1197,7 @@
     <string name="after">Sonra</string>
     <string name="clan_id">Klan ID:</string>
     <string name="editing_message">Mesaj Düzenleniyor</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to "Performance" or 100%\n2. Remove the app from Game Launcher's library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
     <string name="support">Destek</string>
     <string name="support_intro">Below are all the ways to contact support.</string>
     <string name="copy">Kopyala</string>

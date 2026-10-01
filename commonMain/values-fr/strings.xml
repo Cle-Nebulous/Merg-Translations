@@ -144,7 +144,7 @@
     <string name="connected">Connecté</string>
     <string name="select_server">Sélectionner le serveur</string>
     <string name="server_europe">Europe</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">Amérique du Sud</string>
     <string name="server_asia">Asia</string>
     <string name="join">Rejoindre</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Voulez-vous vraiment annuler l'exclusion de "%1$s" (ID : %2$d) ?</string>
     <string name="clan_unban_confirm">Voulez-vous vraiment débannir "%1$s" (ID : %2$d) ?</string>
     <string name="clan_search_hint">Rechercher par ID ou Nom</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Promouvoir comme Chef</string>
     <string name="clan_transfer_ownership_title">Transférer la propriété</string>
     <string name="clan_transfer_ownership_message">Vous êtes sur le point de promouvoir "%1$s" (ID : %2$d) au rang de Chef. Vous serez rétrogradé au rang de Co-Chef. Cette action est irréversible.\n\nTapez l'ID du joueur pour confirmer :</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Le serveur est en train de s'éteindre</string>
     <string name="server_rebooting">Le serveur redémarre. Veuillez réessayer d'ici peu.</string>
     <string name="server_maintenance">Le serveur est en cours de maintenance. Veuillez réessayer plus tard.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Interdit</string>
     <string name="internal_server_error">Erreur interne du serveur</string>
     <string name="unknown_error_code">Code d'erreur inconnu %d</string>

@@ -144,7 +144,7 @@
     <string name="connected">Conectado</string>
     <string name="select_server">Seleccionar Región</string>
     <string name="server_europe">Europa</string>
-    <string name="server_americas_nc">Américas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">Sudamérica</string>
     <string name="server_asia">Asia</string>
     <string name="join">Unirse</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">¿Seguro(a) que quieres Readmitir a "%1$s" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">¿Seguro(a) que quieres Desbanear a "%1$s" (ID: %2$d)?</string>
     <string name="clan_search_hint">Buscar por ID o por Nombre</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Ascender a Líder</string>
     <string name="clan_transfer_ownership_title">Transfeir Propiedad</string>
     <string name="clan_transfer_ownership_message">¿Seguro(a) que quieres Ascender a "%1$s" (ID: %2$d) como Líder. Serás Degradado a Colíder. Esta acción es irreversible.\n\nType el jugador's ID confirmar:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">El Servidor se está Cerrando…</string>
     <string name="server_rebooting">El Servidor se está Reiniciando. Por favor, intenta de nuevo en breve.</string>
     <string name="server_maintenance">Ups, el Servidor está en Mantenimiento. Por favor, intenta de nuevo más tarde.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Prohibido</string>
     <string name="internal_server_error">Error Interno del Servidor</string>
     <string name="unknown_error_code">Error Desconocido. Código %d</string>

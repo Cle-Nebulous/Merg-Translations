@@ -144,7 +144,7 @@
     <string name="connected">Connected</string>
     <string name="select_server">Select Server</string>
     <string name="server_europe">Europe</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
+    <string name="server_north_america">North America</string>
     <string name="server_south_america">South America</string>
     <string name="server_asia">Asia</string>
     <string name="join">Join</string>
@@ -613,6 +613,7 @@
     <string name="clan_unkick_confirm">Bist du sicher, dass du den Rauswurf von "%1$s" (ID: %2$d) aufheben möchtest?</string>
     <string name="clan_unban_confirm">Bist du sicher, dass du den Bann von "%1$s" (ID: %2$d) aufheben möchtest?</string>
     <string name="clan_search_hint">Über ID oder Name suchen</string>
+    <string name="clan_discover">Discover Clans</string>
     <string name="clan_promote_to_owner">Zum Eigentümer befördern</string>
     <string name="clan_transfer_ownership_title">Eigentümerschaft übertragen</string>
     <string name="clan_transfer_ownership_message">Du bist im Begriff, "%1$s" (ID: %2$d) zum Eigentümer zu befördern. Du wirst zum Miteigentümer degradiert. Dies kann nicht rückgängig gemacht werden.\n\nGib die ID des Spielers ein, um den Vorgang zu bestätigen:</string>
@@ -1174,6 +1175,7 @@
     <string name="server_shutting_down">Server wird heruntergefahren</string>
     <string name="server_rebooting">Server startet neu. Bitte versuche es in Kürze erneut.</string>
     <string name="server_maintenance">Server wird gewartet. Bitte versuche es später erneut.</string>
+    <string name="server_overloaded">Server overloaded</string>
     <string name="forbidden">Verboten</string>
     <string name="internal_server_error">Interner Serverfehler</string>
     <string name="unknown_error_code">Unbekannter Fehlercode %d</string>
