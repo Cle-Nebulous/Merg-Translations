@@ -47,7 +47,7 @@
     <string name="language_portuguese_portugal">Português (Portugal) | Portugués (Portugal)</string>
     <string name="language_romanian">Română | Rumano</string>
     <string name="language_russian">Русский | Ruso</string>
-    <string name="language_slovak">Slovenčina | Esloveno</string>
+    <string name="language_slovak">Slovenčina | Eslovaco</string>
     <string name="language_spanish">Español</string>
     <string name="language_swedish">Svenska | Sueco</string>
     <string name="language_thai">ไทย | Tailandés</string>
@@ -1138,8 +1138,8 @@
     <string name="players_count">Jugadores</string>
     <string name="show_ui">Mostrar Interfaz de Usuario</string>
     <string name="open_menu">Abrir Menú</string>
-    <string name="stop_spectating">Dejar de Observar</string>
-    <string name="spectate">Observar</string>
+    <string name="stop_spectating">Dejar de Espectar</string>
+    <string name="spectate">Espectar</string>
     <string name="previous_entity">Entidad Anterior</string>
     <string name="next_entity">Siguiente Entidad</string>
     <string name="level_abbreviated">Nivel.%d</string>
