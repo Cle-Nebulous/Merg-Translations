@@ -60,7 +60,7 @@
     <string name="controls">Modo de Control</string>
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
-    <string name="control_touch">Tocar</string>
+    <string name="control_touch">Toca y vete</string>
     <string name="control_drag">Arrastrar</string>
     <string name="ignore_multitouch_movement">Ignorar multitáctil para movimiento</string>
     <string name="control_mouse">Mouse</string>
@@ -601,7 +601,7 @@
     <string name="clan_history">Historial</string>
     <string name="clan_history_no_entries">Sin Historial</string>
     <string name="clan_history_event_join">Se Unió</string>
-    <string name="clan_history_event_leave">Se Salió</string>
+    <string name="clan_history_event_leave">Abandonó</string>
     <string name="clan_history_event_kick">Expulsado(a)</string>
     <string name="clan_history_event_ban">Baneado(a)</string>
     <string name="clan_history_event_promote">Ascendió</string>
@@ -817,7 +817,7 @@
     <string name="level_skin_locked_dialog">Debes ser nivel %1$d para desbloquear esta skin. Actualmente eres nivel %2$d.</string>
     <string name="skin_tab_achievement">Logro</string>
     <string name="achievement_skin_locked_dialog">Debes alcanzar %1$d Puntos de Logros para desbloquear esta skin. Actualmente tienes %2$d.</string>
-    <string name="dismiss">Dismiss</string>
+    <string name="dismiss">Descartar</string>
     <string name="level_lock">Nivel Bloqueado</string>
 
 
@@ -1230,11 +1230,11 @@
     <string name="unlocked_competitive">Competitivo Desbloqueado</string>
     <!-- Achievements -->
     <string name="achievements_ap">%1$s/%2$s (%3$s%%)</string>
-    <string name="achievement_tier_bronze">Bronze</string>
-    <string name="achievement_tier_silver">Silver</string>
-    <string name="achievement_tier_gold">Gold</string>
-    <string name="achievement_tier_platinum">Platinum</string>
-    <string name="achievement_tier_diamond">Diamond</string>
+    <string name="achievement_tier_bronze">Bronce</string>
+    <string name="achievement_tier_silver">Plata</string>
+    <string name="achievement_tier_gold">Oro</string>
+    <string name="achievement_tier_platinum">Platino</string>
+    <string name="achievement_tier_diamond">Diamante</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
     <string name="achievement_next">Next:</string>
     <string name="achievement_secret_title">Secret Achievement</string>
