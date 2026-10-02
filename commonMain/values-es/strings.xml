@@ -1236,7 +1236,7 @@
     <string name="achievement_tier_platinum">Platino</string>
     <string name="achievement_tier_diamond">Diamante</string>
     <string name="achievement_tier_count">%1$s: %2$s/%3$s</string>
-    <string name="achievement_next">Next:</string>
+    <string name="achievement_next">Siguiente:</string>
     <string name="achievement_secret_title">Secret Achievement</string>
     <string name="achievement_secret_description">???</string>
     <string name="achievement_streak">Current: %1$s ⋅ Best: %2$s ⋅ Next day in %3$s</string>
