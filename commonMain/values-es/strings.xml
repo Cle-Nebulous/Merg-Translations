@@ -60,7 +60,7 @@
     <string name="controls">Modo de Control</string>
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
-    <string name="control_touch">Toca y vete</string>
+    <string name="control_touch">Tocar</string>
     <string name="control_drag">Arrastrar</string>
     <string name="ignore_multitouch_movement">Ignorar multitáctil para movimiento</string>
     <string name="control_mouse">Mouse</string>
@@ -177,7 +177,7 @@
     <string name="competitive_menu">Menú Competitivo</string>
     <string name="competitive_history">Historial Competitivo</string>
     <string name="rating_label">Clasificación</string>
-    <string name="unrated">Sin clasificar</string>
+    <string name="unrated">sin clasificar</string>
     <string name="find_opponent">ENCONTRAR OPONENTE</string>
     <string name="leave_matchmaking">CANCELAR BÚSQUEDA</string>
     <string name="searching_ellipsis">Buscando…</string>
@@ -601,7 +601,7 @@
     <string name="clan_history">Historial</string>
     <string name="clan_history_no_entries">Sin Historial</string>
     <string name="clan_history_event_join">Se Unió</string>
-    <string name="clan_history_event_leave">Abandonó</string>
+    <string name="clan_history_event_leave">Se Salió</string>
     <string name="clan_history_event_kick">Expulsado(a)</string>
     <string name="clan_history_event_ban">Baneado(a)</string>
     <string name="clan_history_event_promote">Ascendió</string>
